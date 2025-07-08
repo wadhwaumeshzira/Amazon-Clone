@@ -6,7 +6,8 @@ This repository contains a fully responsive **Amazon Clone** built by **Umesh Ku
 
 ## 🔗 Live Demo
 
-[Click here to view the live demo](file:///C:/Users/Asus/OneDrive/Desktop/Amazon/index.html)  
+[Click here to view the live demo](https://umeshzira.github.io/amazon-clone/
+)  
 
 
 ---
